@@ -17,7 +17,7 @@ Tools I use:
 - R
 - knowledge of my collaborators
 
-![Look what we do](file:///Users/aftt/Desktop/Hatteras%202015/20150525_Gm_DWaples_0413.jpg)
+!(http://superpod.ml.duke.edu/read/wp-content/themes/striking3_4/cache/images8/7_slide-conservation.jpg-680x200.jpg)
 
 
 
