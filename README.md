@@ -8,9 +8,9 @@ I'm a marine mammal biologist at the Duke University Marine Lab
 
 ##MY MONTH
 In the past month I've:
-*1. evaluated our satellite telemetry tag data
-*2. conducted field work offshore of Jacksonville, FL
-*3. learning more about statistics in Pollock's NC State class
+*evaluated our satellite telemetry tag data
+*conducted field work offshore of Jacksonville, FL
+*learning more about statistics in Pollock's NC State class
 
 Tools I use:
 - ArcGIS
